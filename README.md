@@ -3,14 +3,14 @@ ST10476299
 Glen Maluleke
 # Web-Development-part1
 
-This repository contains a simple static website for the "ComServe" community project. Files are plain HTML and ready to be reviewed locally or hosted on a web server.
 
 ---
 
 # Project Proposal — ComServe
 
 **Student ID:** ST10476299  
-**Author:** Glen Maluleke
+**Author:** Glen Maluleke  
+**Module code:** WEDE5020
 
 ## 1. Organisation Overview
 - **Organisation Name:** ComServe (Non-Profit Organisation)
